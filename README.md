@@ -12,15 +12,16 @@
 </ul>
 
 ### If you would like to run the program from your windows dialog box (windows key + R) ensure you do the following:
- 
 <ul>
-<li>Edit the .bat file in the repo to the location where the cloned or dowloaded repo is on your system </li>
+<li>Edit the .bat file in the repo to the location where the cloned or dowloaded repo is on your system. </li>
 <li>Ensure the location of cloned or downloaded is placed in your system PATH environment variables.
-<li>To run the to-do-list from the dialog box press 'windows key + r' to open the dialog box</li>
-<li>Type the name of the batch file 'to_do_list'. The program should run upon entering </li>
+<li>To run the to-do-list from the dialog box press 'windows key + r' to open the dialog box.</li>
+<li>Type the name of the batch file 'to_do_list'. The program should run upon entering. </li>
 <li>You can also run a specific command from the dialog box. Example: 'to_do_list add wash the car' will add 'wash the car' to your to-do-list. 'to_do_list tasks' will print out all your available tasks with their task numbers.
 </ul>
 
 <p><b>NB: This program will create a folder called 'do_not_delete' in your desktop folder. If you tamper with it you run the risk of losing the data in your to-do-list. </b></p>
+
+### <a href="https://youtu.be/fIcyVS2FIG0">Watch Live Demo here</a>
 
 ### Enjoy
